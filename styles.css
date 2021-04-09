@@ -1,0 +1,16 @@
+
+  body{
+    background: url("./img/fondo.jpg")no-repeat;
+    
+  }
+  h1{
+    background: #ffff;
+    
+  }
+  .container {
+    width: 611px;
+    background: #fff ;
+    margin: 0 auto;
+    border-radius: 3px;
+  }
+  
